@@ -1,0 +1,174 @@
+.container{
+    margin-top: 20px;
+        
+}
+
+#heading{
+    color: brown;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.product_details{
+    margin:5px 5px
+}
+
+
+.addToCart{
+
+  /* margin: 50px 0 5px 0; */
+  background-color: brown;
+  align-content: center;
+  width: fit-content;
+  /* margin-top: 10px; */
+  
+}
+
+.addToCart:hover{
+    background: #e9ecef;
+    color: black;
+}
+
+#productPrice{
+    font-weight: bold;
+    color: blue;
+    margin-top: 10px;
+    
+}
+
+.cardImage{
+    height: 50%;
+    margin-top: 10px;
+}
+
+.seedetailsButton{
+    width: fit-content;
+    color: saddlebrown;
+}
+
+.card-title{
+    margin: 10px 10px 0px 10px;
+}
+
+
+
+.cartandprice{
+    margin-left: 8px;
+}
+
+.product_list{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fullCard{
+    margin-top: 10px;
+    background: #efb1a2;
+}
+
+.cartIcon{
+    
+}
+
+.cartIcon p{
+    font-weight: bold;
+}
+
+.cartIcon:hover{
+    color: brown;
+    cursor: pointer;
+}
+
+.cartDiv{
+
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 10px; /* Location of the box */
+    left: 0;
+    top: 0;
+     /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */    
+    background-color: #e9ecef;
+    
+    
+    /* margin-left: 50%; */
+    margin-top: 20px;
+    
+
+}
+
+.cardContent{
+    background-color: #ffaf26;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0 10px 10px 10px;
+    
+        
+}
+
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#cartTitle{
+    margin: 5px;
+    color: brown;
+    font-weight: 700;
+}
+
+.productName{
+    float: left;
+    color: brown;
+}
+
+#productPriceId{
+    float: right;
+    color:brown;
+    font-weight: bolder;
+    
+}
+
+li{
+    margin: 25px;
+    font-size: medium;
+    font-weight: 700;
+    
+}
+
+#totalAmountId{
+    bottom: 10px;
+    position: fixed;
+}
+
+#removeicon{
+    margin-left: 20px;
+    color: black;
+    cursor: pointer;
+}
+
+#removeicon:hover{
+    color: red;
+}
+
+.jumbotron{
+    background: #ffc67c;
+}
+
+
+
+
