@@ -1,1 +1,1 @@
-# JSBasicProjects
+# JSBasic
